@@ -1,4 +1,13 @@
-# SafeCode Project
+# SafeCode Project 
+
+
+## Web Interface
+
+- Built a simple HTML/CSS-based UI for the SafeCode analyzer
+- Allows users to paste Python or JavaScript code
+- Displays detected insecure patterns and recommendations
+- Purpose: Demonstrate how SafeCode checks can be surfaced to developers
+
 
 ## CodeQL Findings
 
