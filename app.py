@@ -1,4 +1,5 @@
-API_KEY = "sk_test_12345_FAKE_KEY"
+AWS_SECRET_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"
+
 
 from flask import Flask, request, jsonify, render_template_string
 import re
