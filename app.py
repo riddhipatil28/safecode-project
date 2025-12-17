@@ -1,3 +1,5 @@
+API_KEY = "sk_test_12345_FAKE_KEY"
+
 from flask import Flask, request, jsonify, render_template_string
 import re
 

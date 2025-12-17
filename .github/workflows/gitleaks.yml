@@ -1,0 +1,10 @@
+name: Secret Scanning
+
+on: [push]
+
+jobs:
+  gitleaks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: zricethezav/gitleaks-action@v2
